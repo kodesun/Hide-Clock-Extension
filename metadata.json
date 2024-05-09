@@ -1,0 +1,10 @@
+{
+    "uuid": "hideclock@sudfish.com",
+    "name": "Hide Clock",
+    "description": "Hide clock from top panel.",
+    "shell-version": [ 
+	    "45",
+	    "46" 
+    ],
+    "url": "https://github.com/sudfish/Hide-Clock-Extension"
+}
