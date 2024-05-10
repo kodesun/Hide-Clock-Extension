@@ -1,7 +1,7 @@
 {
-    "uuid": "hideclock@sudfish.com",
-    "name": "Hide Clock",
-    "description": "Hide clock from top panel.",
+    "uuid": "removeclock@sudfish.com",
+    "name": "Remove Clock",
+    "description": "Remove or hide clock from top panel.",
     "shell-version": [ 
 	    "45",
 	    "46" 

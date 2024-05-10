@@ -4,7 +4,7 @@ import {Extension} from 'resource:///org/gnome/shell/extensions/extension.js';
 import * as Main from 'resource:///org/gnome/shell/ui/main.js';
 
 
-export default class ExampleExtension extends Extension {
+export default class RemoveClockExtension extends Extension {
     enable() {
         Main.panel.statusArea.dateMenu.container.hide();
     }
