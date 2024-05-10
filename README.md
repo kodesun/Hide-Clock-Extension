@@ -1,11 +1,11 @@
-# GNOME Shell Hide Clock Extension 
-GNOME Shell (version 45 &amp; 46) extension to hide clock on top panel. 
+# GNOME Shell Remove Clock Extension 
+GNOME Shell (version 45 &amp; 46) extension to remove (hide) clock on top panel. 
 Built for Ubuntu users. Great for screen recordings without showing the embarrasing
-time your making the video at.
+time you're recording the video.
 
 ## Pre-Requisites
 * GNOME Tweaks App (install with ```sudo apt install gnome-tweaks```)
-* GNOME Version 45 or 46
+* GNOME Shell (v45 or v46)
 
 Since GNOME Shell is not API stable, extensions only work against a very
 specific version of the shell. This extension has only been tested on GNOME
@@ -13,7 +13,7 @@ specific version of the shell. This extension has only been tested on GNOME
 
 ## Installation
 * Go to ```/.local/share/gnome-shell/extensions/```
-* ```mkdir hideclock@sudfish.com```. **ATTENTION**: Name of dir must match uuid in extensions' ```metadata.json``` file.
+* ```mkdir removeclock@sudfish.com```. **ATTENTION**: Name of dir must match **_uuid_** in extensions' ```metadata.json``` file.
 * Copy ```metadata.json``` and ```extension.js``` into created directory.
 * Restart GNOME Shell by pressing ```Alt+F2``` and enter 'r'.
 
