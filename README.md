@@ -3,6 +3,8 @@ GNOME Shell (version 45 &amp; 46) extension to remove (hide) clock on top panel.
 Built for Ubuntu users. Great for screen recordings without showing the embarrasing
 time you're recording the video.
 
+View [here](https://extensions.gnome.org/extension/6967/remove-clock/).
+
 ## Pre-Requisites
 * GNOME Tweaks App (install with ```sudo apt install gnome-tweaks```)
 * GNOME Shell (v45 or v46)
