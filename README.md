@@ -15,7 +15,7 @@ specific version of the shell. This extension has only been tested on GNOME
 
 ## Installation
 * Go to ```/.local/share/gnome-shell/extensions/```
-* ```mkdir removeclock@sudfish.com```. **ATTENTION**: Name of dir must match **_uuid_** in extensions' ```metadata.json``` file.
+* ```mkdir removeclock@kodesun.com```. **ATTENTION**: Name of dir must match **_uuid_** in extensions' ```metadata.json``` file.
 * Copy ```metadata.json``` and ```extension.js``` into created directory.
 * Restart GNOME Shell by pressing ```Alt+F2``` and enter 'r'.
 
@@ -23,4 +23,4 @@ specific version of the shell. This extension has only been tested on GNOME
 Standard MIT license. Feel free to modify as you please.
 
 ## Author
-Created by [@sudfish](https://github.com/sudfish)
+Created by [@kodesun](https://github.com/kodesun)
